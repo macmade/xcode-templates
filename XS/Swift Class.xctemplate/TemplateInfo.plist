@@ -34,18 +34,6 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>cocoaSubclass</string>
-			<key>Required</key>
-			<true/>
-			<key>Name</key>
-			<string>Subclass of:</string>
-			<key>Description</key>
-			<string>What class to subclass in the new file</string>
-			<key>Type</key>
-			<string>class</string>
-		</dict>
-		<dict>
-			<key>Identifier</key>
 			<string>licenseChoice</string>
 			<key>Required</key>
 			<true/>

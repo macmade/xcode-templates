@@ -34,5 +34,5 @@
 
 import Foundation
 
-class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaSubclass___
+class ___FILEBASENAMEASIDENTIFIER___
 {}
