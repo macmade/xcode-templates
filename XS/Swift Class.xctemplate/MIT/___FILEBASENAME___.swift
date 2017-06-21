@@ -29,5 +29,5 @@
 
 import Foundation
 
-class ___FILEBASENAMEASIDENTIFIER___
+public class ___FILEBASENAMEASIDENTIFIER___
 {}
