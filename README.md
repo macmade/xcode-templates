@@ -9,6 +9,11 @@ xcode-templates
 [![Donate-Gratipay](https://img.shields.io/badge/donate-gratipay-yellow.svg?style=flat)](https://www.gratipay.com/macmade)
 [![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/xslabs)
 
+Usage
+-----
+
+Put the `XS` directory in `~/Library/Developer/Xcode/Templates` and restart Xcode.
+
 Repository Infos
 ----------------
 
