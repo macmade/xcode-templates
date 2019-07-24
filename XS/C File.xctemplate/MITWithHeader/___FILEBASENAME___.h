@@ -27,9 +27,9 @@
  * @copyright   (c) ___YEAR___, Jean-David Gadina - www.xs-labs.com
  */
 
-#ifndef ___FILEBASENAMEASIDENTIFIER____h
-#define ___FILEBASENAMEASIDENTIFIER____h
+#ifndef ___FILEBASENAMEASIDENTIFIER____H
+#define ___FILEBASENAMEASIDENTIFIER____H
 
 
 
-#endif /* ___FILEBASENAMEASIDENTIFIER____h */
+#endif /* ___FILEBASENAMEASIDENTIFIER____H */
