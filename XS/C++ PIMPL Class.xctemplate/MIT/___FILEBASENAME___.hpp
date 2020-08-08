@@ -37,10 +37,10 @@ class ___FILEBASENAMEASIDENTIFIER___
 {
     public:
         
-        ___FILEBASENAMEASIDENTIFIER___( void );
+        ___FILEBASENAMEASIDENTIFIER___();
         ___FILEBASENAMEASIDENTIFIER___( const ___FILEBASENAMEASIDENTIFIER___ & o );
         ___FILEBASENAMEASIDENTIFIER___( ___FILEBASENAMEASIDENTIFIER___ && o ) noexcept;
-        ~___FILEBASENAMEASIDENTIFIER___( void );
+        ~___FILEBASENAMEASIDENTIFIER___();
         
         ___FILEBASENAMEASIDENTIFIER___ & operator =( ___FILEBASENAMEASIDENTIFIER___ o );
         
