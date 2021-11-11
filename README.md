@@ -1,13 +1,11 @@
 xcode-templates
 ===============
 
-[![Issues](http://img.shields.io/github/issues/macmade/xcode-templates.svg?style=flat)](https://github.com/macmade/xcode-templates/issues)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)
-![License](https://img.shields.io/badge/license-none-brightgreen.svg?style=flat)
-[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)  
-[![Donate-Patreon](https://img.shields.io/badge/donate-patreon-yellow.svg?style=flat)](https://patreon.com/macmade)
-[![Donate-Gratipay](https://img.shields.io/badge/donate-gratipay-yellow.svg?style=flat)](https://www.gratipay.com/macmade)
-[![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/xslabs)
+[![Issues](http://img.shields.io/github/issues/macmade/xcode-templates.svg?logo=github)](https://github.com/macmade/xcode-templates/issues)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg?logo=git)
+![License](https://img.shields.io/badge/license-none-brightgreen.svg?logo=open-source-initiative)  
+[![Contact](https://img.shields.io/badge/follow-@macmade-blue.svg?logo=twitter&style=social)](https://twitter.com/macmade)
+[![Sponsor](https://img.shields.io/badge/sponsor-macmade-pink.svg?logo=github-sponsors&style=social)](https://github.com/sponsors/macmade)
 
 Usage
 -----
